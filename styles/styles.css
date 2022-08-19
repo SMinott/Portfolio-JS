@@ -631,10 +631,11 @@ section {
   justify-content: flex-start;
 }
 
-/*Independed components*/
+/*Independent components*/
 .btn-con {
   display: flex;
   align-self: flex-start;
+  padding-bottom: 15px;
 }
 
 .main-btn {
